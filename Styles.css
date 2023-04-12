@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+	.nav {
+			margin-top: 25px;
+			font-family: Microsoft YaHei UI Light;
+			text-align: center;
+}
+
+
+.title_pic {
+				background-position: center;
+				background-repeat: no-repeat;
+				position: relative;
+				
+}
+
+.form{
+	font-family: Microsoft YaHei UI Light;
+	
+}
